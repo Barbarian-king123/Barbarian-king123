@@ -1,59 +1,46 @@
-<h1 align="center">Hi 👋, I'm Parthan</h1>
-<h3 align="center">Final-year CSE student building mobile apps with Flutter and exploring ML and Generative AI</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=190&section=header&text=Hi%2C%20I'm%20Parthan%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Final-year%20CSE%20%C2%B7%20GEC%20Thrissur&descAlignY=60&descSize=16" alt="header" />
+</p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=barbarian-king123&label=Profile%20views&color=0e75b6&style=flat" alt="barbarian-king123" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Flutter+%26+Firebase+app+developer;Exploring+ML%2C+LLMs+and+RAG;Turning+everyday+problems+into+apps" alt="typing" />
+</p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barbarian-king123&theme=tokyonight&no-frame=true&margin-w=8" alt="barbarian-king123" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-parthan-338b09289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:michuparthan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=barbarian-king123&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p align="left"><a href="https://github.com/Barbarian-king123"><img src="https://img.shields.io/github/followers/Barbarian-king123?label=Follow%20%40Barbarian-king123&style=social" alt="Follow Barbarian-king123" /></a></p>
+### 🧑‍💻 About me
 
-- 🎓 B.Tech Computer Science & Engineering at **Government Engineering College, Thrissur** (2023 to 2027), CGPA **8.86**
-- 🔭 I'm building mobile and web apps with **Flutter, Firebase and REST APIs**
-- 🌱 I'm learning **LLMs, RAG, vector databases, AI agents and LangChain**
+- 🎓 B.Tech Computer Science & Engineering, **Government Engineering College, Thrissur** (2023 to 2027) · CGPA **8.86**
+- 📱 Building mobile and web apps with **Flutter, Firebase and REST APIs**
+- 🤖 Learning **LLMs, RAG, vector databases, AI agents and LangChain**
 - 🏆 Qualified **GATE 2026** (CS & IT) · **NPTEL**: Introduction to Machine Learning
-- 📫 How to reach me: **michuparthan@gmail.com**
-- ⚡ Fun fact: **I like turning everyday problems into apps**
+- 📫 Reach me at **michuparthan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages and tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:michuparthan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,py,flutter,dart,firebase,fastapi,git,github,vscode&theme=dark&perline=11" alt="Languages and tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,mysql,py,flutter,dart,firebase,fastapi,git,github,vscode&theme=dark" alt="Languages and tools" /></a>
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barbarian-king123&theme=tokyonight" alt="Profile details" width="100%" />
 </p>
 
-<h3 align="left">Projects:</h3>
-
-| Project | Stack | What it does |
-|---|---|---|
-| [**TurfVacancy (TurfPulse AI)**](https://github.com/Barbarian-king123/Turfvacancy) | Python, FastAPI, Groq LLM | Detects free turf slots, serves live availability through REST APIs, and uses Llama 3.3 70B to suggest safe discounts and send WhatsApp/SMS offers |
-| [**MedTracker**](https://github.com/Barbarian-king123/medtracker) | Flutter, Dart | Offline-first medication scheduler with morning, noon and evening reminders for 10+ medicine types |
-| [**RoadCare**](https://github.com/Barbarian-king123/roadcare) | Flutter, Firebase | Citizens report potholes, streetlights and leaks with photo and location, on a map coloured by severity, with upvotes and status updates |
-| [**DrugReport**](https://github.com/Barbarian-king123/drugreport) | Flutter, Firebase | Fast anonymous-style reporting to police with GPS, phone OTP login, and one app for citizens and officers with role-based screens |
-
-<h3 align="left">GitHub stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barbarian-king123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Barbarian-king123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barbarian-king123&theme=tokyonight" alt="Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barbarian-king123&theme=tokyonight" alt="Top languages" height="170" />
 </p>
 
-<p align="left"><img src="https://streak-stats.demolab.com?user=Barbarian-king123&theme=tokyonight" alt="GitHub streak" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Barbarian-king123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-
-<!--
-**Barbarian-king123/Barbarian-king123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="footer" />
+</p>
